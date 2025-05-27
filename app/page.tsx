@@ -1346,9 +1346,8 @@ export default function Home() {
         </div>
 
         <footer className="mt-8 text-center text-sm text-muted-foreground">
-          <p>Your progress is saved automatically in your browser.</p>
           <Separator className="my-4" />
-          <p>DSA Question Tracker - Inspired by algomap.io</p>
+          <p>DSA Question Tracker</p>
         </footer>
       </div>
     </div>
